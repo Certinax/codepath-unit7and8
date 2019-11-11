@@ -13,6 +13,7 @@ Time spent: **5** hours spent in total
     - Fixed in version: 4.4.1
   - [x] GIF Walkthrough: 
   <img src="https://github.com/Certinax/codepath-unit7and8/blob/master/xss3.gif">
+  
   - [x] Steps to recreate: 
   Get an admin to upload a link with an embedded XSS in it. on load it fires the script
   - [x] Affected source code:
