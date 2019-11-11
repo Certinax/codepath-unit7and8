@@ -1,5 +1,3 @@
-# codepath-unit7and8
-
 # Project 7 - WordPress Pentesting
 
 Time spent: **X** hours spent in total
