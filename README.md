@@ -38,6 +38,7 @@ Time spent: **5** hours spent in total
   - [x] GIF Walkthrough: 
   <img src="https://github.com/Certinax/codepath-unit7and8/blob/master/xss1-1.gif">
   <img src="https://github.com/Certinax/codepath-unit7and8/blob/master/xss1-2.gif">
+  
   - [x] Steps to recreate: 
   Attacker will write a very long comment with a xss script embedded that cannot be properly handled by the database, then tthe scriptt will be executed once the admin approves and looks at the posted comment. 
   - [x] Affected source code:
