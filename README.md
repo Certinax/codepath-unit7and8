@@ -23,7 +23,8 @@ Time spent: **5** hours spent in total
     - Tested in version: 4.2.2
     - Fixed in version: 4.3.1
   - [x] GIF Walkthrough: 
-  <img src="https://github.com/Certinax/codepath-unit7and8/blob/master/xss1-2.gif"
+  <img src="https://github.com/Certinax/codepath-unit7and8/blob/master/xss1-2.gif">
+  
   - [x] Steps to recreate: 
   a new post must be created and a xss alert must be embedded into a tag on the page when you click on the tag the alert will be triggered.
   - [x] Affected source code:
